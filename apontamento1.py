@@ -37,7 +37,7 @@ prato_dia = "lasanha de camarão com catupiry com 3 acompanhamentos"
 prato_dia = 'lasanha de camarão com catupiry com 3 acompanhamentos'
 #numero_da_sorte = "7"  ("" e '' diferenciam-se pela tecla Shift)
 
-# Booleanos (bool) -> São todas as informações que possuem valor True e False (ambos escritos comiicial maiúscula)
+# Booleanos (bool) -> São todas as informações que possuem valor True e False (ambos escritos com inicial maiúscula)
 
 # Exemplo:
 maior_de_idade = True
