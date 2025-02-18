@@ -30,7 +30,7 @@ divida_fernanda = -100
 preco_picanha = 39,90
 pi = -3.14
 
-# Strings ou Caracteres (str) -> São considerados todos os tipos de Dados cujo entre entre está "" ou ''
+# Strings ou Caracteres (str) -> São considerados todos os tipos de dados cuja definição está entre "" ou ''
 
 # Exemplo:
 prato_dia = "lasanha de camarão com catupiry com 3 acompanhamentos"
